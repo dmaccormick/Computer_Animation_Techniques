@@ -1,7 +1,7 @@
 # Computer Animation Techniques
 
 ## Introduction
-This repository contains several small projects that demonstrate computer animation techniques. These projects were assignments for a 2nd year animation class. They are written in C++ and are integrated into a framework that uses immediate mode OpenGL for rendering. 
+This repository contains several small projects that demonstrate computer animation techniques in 2016. These projects were assignments for a 2nd year animation class. They are written in C++ and are integrated into a framework that uses immediate mode OpenGL for rendering. 
 
 ## The Different Projects
 
